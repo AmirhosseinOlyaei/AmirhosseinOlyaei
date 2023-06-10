@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning CSS, JS, React and AWS SysOps
+- 🔭 Next I’ll be working on UX/UI, Node/Java/Python, and DevOps
+- 👯 I’m looking to collaborate on web applications
+- 📫 How to reach me: https://www.linkedin.com/in/amirhossein-olyaei/
 <!--
 **AmirhosseinOlyaei/AmirhosseinOlyaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
