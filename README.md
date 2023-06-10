@@ -2,15 +2,15 @@
 Thanks for visiting!
 - 🔭 I’m currently working on Full Stack Web Development 
 >**Web Development**: #HTML, #CSS, #TailwindCSS, #DaisyUI, #JavaScript, #React.js, #API  
-_**Version control**_: #Git / #GitHub  
+**Version control**: #Git / #GitHub  
 IDEs: #WebStorm, #VSCode, #CodeSandbox, #JSitor, #replit  
 **Prototyping**: #Figma  
 **Project management**: #Agile-#Scrum in #ZenHub  
 **Database**: #PostgreSQL in #Supabase  
 **Knowledge base / Note taking**: #Markdown in #Logseq, .md, and presentations  
 **Production / Deployment**: #Vercel  
-Introduction to #Node.js, #Docker, and #AWS
-**Collaboration**: #Slack, #Around
+Introduction to #Node.js, #Docker, and #AWS  
+**Collaboration**: #Slack, #Around  
 - 🌱 I’m currently learning AWS SysOps
 - 🔭 Next I’ll be working on UX/UI, Node/Java/Python, and DevOps
 - 👯 I’m looking to collaborate on web applications
