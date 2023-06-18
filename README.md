@@ -33,7 +33,7 @@ git
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" /></a>
 
 github
-<a href=“https://github.com” target="_blank" rel="noreferrer"><img src="https://github.com/AmirhosseinOlyaei/AmirhosseinOlyaei/assets/20806019/a1504d1a-25d4-49fe-8683-a4c844c6ee0d" width="36" height="36" alt=“GitHub” title=“GitHub" /></a>
+<a href=“https://github.com” target="_blank" rel="noreferrer"><img src="https://github.com/AmirhosseinOlyaei/AmirhosseinOlyaei/assets/20806019/a1504d1a-25d4-49fe-8683-a4c844c6ee0d" width="36" height="36" alt=“GitHub” title=“GitHub” /></a>
 
 html
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML" /></a>
@@ -65,11 +65,20 @@ supabase
 postgres
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /></a>
 
+vercel
+<a href=“https://vercel.com” target="_blank" rel="noreferrer"><img src="https://github.com/AmirhosseinOlyaei/AmirhosseinOlyaei/assets/20806019/7fe34e36-a5aa-4eb5-8a2c-6b0473c12792" width="36" height="36" alt=“Vercel” title=“Vercel” /></a>
+
+aws
+<a href=“https://aws.amazon.com/” target="_blank" rel="noreferrer"><img src="https://github.com/AmirhosseinOlyaei/AmirhosseinOlyaei/assets/20806019/8dc46915-b409-4dcc-b503-4b8159f3b8df" width="36" height="36" alt=“AWS” title=“AWS-Cloud-Practitioner” /></a>
+
 markdown
-<a href=“https://www.markdownguide.org/” target="_blank" rel="noreferrer"><img src="https://github.com/AmirhosseinOlyaei/AmirhosseinOlyaei/assets/20806019/e4ef57e4-cb5d-4f29-bf23-4c10a4e3c6bb" width="50" height="36" alt=“Markdown” title=“Markdown” /></a>
+<a href=“https://www.markdownguide.org/” target="_blank" rel="noreferrer"><img src="https://github.com/AmirhosseinOlyaei/AmirhosseinOlyaei/assets/20806019/e4ef57e4-cb5d-4f29-bf23-4c10a4e3c6bb" width="50" height="30" alt=“Markdown” title=“Markdown” /></a>
 
+logseq
+<a href=“https://logseq.com/” target="_blank" rel="noreferrer"><img src="https://github.com/AmirhosseinOlyaei/AmirhosseinOlyaei/assets/20806019/6594517f-68f3-41da-adce-c4875ed638e9" width="36" height="36" alt=“Logseq” title=“Logseq” /></a>
 
-
+slack
+<a href=“https://slack.com/” target="_blank" rel="noreferrer"><img src="https://github.com/AmirhosseinOlyaei/AmirhosseinOlyaei/assets/20806019/2f1ab7b4-49cd-4de2-b632-7b3c001fad97" width="36" height="36" alt=“Slack” title=“Slack” /></a>
 
 </p>
 
