@@ -1,11 +1,11 @@
 ### Hi there 👋
 Thanks for visiting!
-- 🔭 I’m currently working on Full Stack Web Development 
->**Web Development**: #HTML, #CSS, #TailwindCSS, #DaisyUI, #JavaScript, #React.js, #API  
+- 🔭 I’m currently working on Full Stack Web Development
+>**Prototyping**: Figma
+**Project management**: #Agile-#Scrum in #ZenHub  
+**Web Development**: #HTML, #CSS, #TailwindCSS, #DaisyUI, #JavaScript, #React.js, #API  
 **Version control**: #Git / #GitHub  
 **IDEs**: #WebStorm, #VSCode, #CodeSandbox, #JSitor, #replit  
-**Prototyping**: Figma  
-**Project management**: #Agile-#Scrum in #ZenHub  
 **Database**: #Navicat, #Supabase, #PostgreSQL  
 **Knowledge base / Note taking**: #Markdown in #Logseq, .md, and presentations  
 **Production / Deployment**: #Vercel  
