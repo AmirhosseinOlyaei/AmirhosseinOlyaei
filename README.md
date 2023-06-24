@@ -1,7 +1,7 @@
 ### Hi there 👋
 Thanks for visiting!
 - 🔭 I’m currently working on Full Stack Web Development
->**Prototyping**: Figma  
+>**Prototyping**: #Figma  
 **Project management**: #Agile-#Scrum in #ZenHub  
 **Web Development**: #HTML, #CSS, #TailwindCSS, #DaisyUI, #JavaScript, #React.js, #API  
 **Version control**: #Git / #GitHub  
