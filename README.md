@@ -11,7 +11,7 @@ Thanks for visiting!
 **Production / Deployment**: #Vercel  
 Introduction to #Node.js, #Docker, and #AWS  
 **Collaboration**: #Slack, #Zoom, #Around  
-- 🌱 I’m currently learning AWS SysOps
+- 🌱 I’m currently learning JAVA
 - 🔭 Next I’ll be working on UX/UI, Node/Java/Python, and DevOps
 - 👯 I’m looking to collaborate on web applications
 - 📫 How to reach me: https://www.linkedin.com/in/amirhossein-olyaei/
