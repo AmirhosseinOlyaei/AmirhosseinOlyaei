@@ -19,8 +19,7 @@ Introduction to #Node.js, #Docker, and #AWS
 ### Skills
 
 <p align="left">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" style="transition: transform 0.3s ease;"
-         onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" /></a>
 <a href="https://www.zenhub.com/" target="_blank" rel="noreferrer"><img src="https://github.com/AmirhosseinOlyaei/AmirhosseinOlyaei/assets/20806019/dbf84553-e3d5-4dea-b9a0-68e59bd30413" width="36" height="36" alt=“Zenhub” title="Zenhub" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" /></a>
 <a href=“https://github.com” target="_blank" rel="noreferrer"><img src="https://github.com/AmirhosseinOlyaei/AmirhosseinOlyaei/assets/20806019/a1504d1a-25d4-49fe-8683-a4c844c6ee0d" width="36" height="36" alt=“GitHub” title="GitHub" /></a>
