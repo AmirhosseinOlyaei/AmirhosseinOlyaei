@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thanks for visiting!
+Thanks for visiting!  
 
 - 🔭 I’m currently working on Full Stack Web Development
   > **Prototyping**: #Figma  
