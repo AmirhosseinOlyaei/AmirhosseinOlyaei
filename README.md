@@ -26,7 +26,7 @@ Thanks for visiting!
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" /></a>
 <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/XlPIRaG.png" width="36" height="36" alt="GitHub" title="GitHub" /></a>
 <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/cDJe90y.png" width="36" height="36" alt="Webstorm" title="Webstorm" /></a>
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/cDJe90y.png" width="36" height="36" alt="VSCode" title="VSCode" /></a>
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/lHgeqzp.png" width="36" height="36" alt="VSCode" title="VSCode" /></a>
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS" /></a>
