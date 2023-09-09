@@ -35,7 +35,7 @@ Thanks for visiting!
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
 
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Java" title="Java" /></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Intellij" title="Intellij" /></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AmirhosseinOlyaei/images/e3e92a8d7a92396c083adaf9d66d3c5a660b8630/IntelliJ_IDEA_Icon.svg" width="36" height="36" alt="Intellij" title="Intellij" /></a>
 
 <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/mPI6GTE.png" width="36" height="36" alt="API" title="API" /></a>
 <a href="https://navicat.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/1EOFBkk.png" width="36" height="36" alt="Navicat" title="Navicat" /></a>
