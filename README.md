@@ -31,8 +31,12 @@ Thanks for visiting!
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS" /></a>
 <a href="https://daisyui.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/xLOhACm.png" width="36" height="36" alt="DaisyUI" title="DaisyUI" /></a>
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React" /></a>
+<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
+
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Java" title="Java" /></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Intellij" title="Intellij" /></a>
+
 <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/mPI6GTE.png" width="36" height="36" alt="API" title="API" /></a>
 <a href="https://navicat.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/1EOFBkk.png" width="36" height="36" alt="Navicat" title="Navicat" /></a>
 <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" title="Supabase" /></a>
