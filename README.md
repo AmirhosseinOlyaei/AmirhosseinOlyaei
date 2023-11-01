@@ -5,7 +5,7 @@ Thanks for visiting!
 - 🔭 I’m currently working on Full Stack Web Development
   > **Prototyping**: #Figma  
   > **Project management**: #Agile-#Scrum in #ZenHub  
-  > **Web Development**: #HTML, #CSS, #TailwindCSS, #DaisyUI, #JavaScript, #React.js, #API  
+  > **Web Development**: #HTML, #CSS, #TailwindCSS, #DaisyUI, #JavaScript, #React.js, #Java  
   > **Version control**: #Git / #GitHub  
   > **IDEs**: #WebStorm, #VSCode, #CodeSandbox, #JSitor, #replit  
   > **Database**: #Navicat, #Supabase, #PostgreSQL  
@@ -13,7 +13,7 @@ Thanks for visiting!
   > **Production / Deployment**: #Vercel  
   > Introduction to #Node.js, #Docker, and #AWS  
   > **Collaboration**: #Slack, #Zoom, #Around
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning React
 - 🔭 Next I’ll be working on UX/UI, Node, and DevOps
 - 👯 I’m looking to collaborate on web applications
 - 📫 How to reach me: https://www.linkedin.com/in/amirhossein-olyaei/
