@@ -7,11 +7,11 @@ Thanks for visiting!
   > **Project management**: #Agile-#Scrum in #ZenHub  
   > **Web Development**: #HTML, #CSS, #TailwindCSS, #DaisyUI, #JavaScript, #React.js, #Java  
   > **Version control**: #Git / #GitHub  
-  > **IDEs**: #WebStorm, #VSCode, #CodeSandbox, #JSitor, #replit  
+  > **IDEs**: #VSCode, #WebStorm for JavaScript, #IntelliJ for Java, #CodeSandbox, #JSitor, #replit  
   > **Database**: #Navicat, #Supabase, #PostgreSQL  
-  > **Knowledge base / Note taking**: #Markdown in #Logseq, .md, and presentations  
-  > **Production / Deployment**: #Vercel  
-  > Introduction to #Node.js, #Docker, and #AWS  
+  > **Knowledge base / Note taking**: #Markdown in #Logseq, .md, and presentations, #Notion    
+  > **Production / Deployment**: #Vercel, #AWS  
+  > Introduction to #Node.js, #Docker  
   > **Collaboration**: #Slack, #Zoom, #Around
 - 🌱 I’m currently learning React
 - 🔭 Next I’ll be working on UX/UI, Node, and DevOps
