@@ -44,6 +44,7 @@ Thanks for visiting!
 <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/HPoUzgb.png" width="50" height="30" alt="Markdown" title="Markdown" /></a>
 <a href="https://logseq.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/FUxrgsy.png" width="36" height="36" alt="Logseq" title="Logseq" /></a>
 <a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/l95rkht.png" width="36" height="36" alt="Slack" title="Slack" /></a>
+  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="36" height="36" alt="Notion" title="Notion" /></a>
 </p>
 
 ### Support Me
