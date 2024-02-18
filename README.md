@@ -2,21 +2,21 @@
 
 Thanks for visiting!  
 
-- 🔭 I’m currently working on Full Stack Web Development
+- 🔭 I’m currently working on Full Stack Web Development  
   > **Prototyping**: #Figma  
   > **Project management**: #Agile-#Scrum in #ZenHub  
   > **Web Development**: #HTML, #CSS, #TailwindCSS, #DaisyUI, #JavaScript, #React.js, #Java  
   > **Version control**: #Git / #GitHub  
   > **IDEs**: #VSCode, #WebStorm for JavaScript, #IntelliJ for Java, #CodeSandbox, #JSitor, #replit  
-  > **Database**: #Navicat, #Supabase, #PostgreSQL  
-  > **Knowledge base / Note taking**: #Markdown in #Logseq, .md, and presentations, #Notion    
+  > **Database**: #SQL, #Navicat, #Supabase, #Airtable  
+  > **Knowledge base / Note taking**: #Markdown in #Logseq, .md, and presentations, #Notion  
   > **Production / Deployment**: #Vercel, #AWS  
   > Introduction to #Node.js, #Docker  
-  > **Collaboration**: #Slack, #Zoom, #Around
-- 🌱 I’m currently learning React
-- 🔭 Next I’ll be working on UX/UI, Node, and DevOps
-- 👯 I’m looking to collaborate on web applications
-- 📫 How to reach me: https://www.linkedin.com/in/amirhossein-olyaei/
+  > **Collaboration**: #Slack, #Zoom, #Around  
+- 🌱 I’m currently learning Data Analytics and React  
+- 🔭 Next I’ll be working on Node  
+- 👯 I’m looking to collaborate on web applications  
+- 📫 How to reach me: https://www.linkedin.com/in/amirhossein-olyaei/  
 
 ### Skills
 
