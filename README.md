@@ -13,8 +13,8 @@ Thanks for visiting!
   > **Production / Deployment**: #Vercel, #AWS  
   > Introduction to #Node.js, #Docker  
   > **Collaboration**: #Slack, #Zoom, #Around  
-- 🌱 I’m currently learning Data Analytics and React  
-- 🔭 Next I’ll be working on Node  
+- 🌱 I’m currently learning React and Node  
+- 🔭 Next I’ll be working on Ruby  
 - 👯 I’m looking to collaborate on web applications  
 - 📫 How to reach me: https://www.linkedin.com/in/amirhossein-olyaei/  
 
