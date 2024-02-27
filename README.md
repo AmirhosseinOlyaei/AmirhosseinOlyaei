@@ -11,7 +11,7 @@ Thanks for visiting!
   > **Database**: #SQL, #Navicat, #Supabase, #Airtable  
   > **Knowledge base / Note taking**: #Markdown in #Logseq, .md, and presentations, #Notion  
   > **Production / Deployment**: #Vercel, #AWS  
-  > Introduction to #Node.js, #Docker  
+  > Introduction to #Docker  
   > **Collaboration**: #Slack, #Zoom, #Around  
 - 🌱 I’m currently learning React and Node  
 - 🔭 Next I’ll be working on Ruby  
