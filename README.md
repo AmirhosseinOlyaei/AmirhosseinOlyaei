@@ -3,20 +3,20 @@
 Thanks for visiting!  
 
 - 🔭 I’m currently working on Full Stack Web Development  
-  > **Prototyping**: #Figma  
-  > **Project management**: #Agile-#Scrum in #ZenHub  
-  > **Web Development**: #HTML, #CSS, #TailwindCSS, #DaisyUI, #JavaScript, #React.js, #Java  
-  > **Version control**: #Git / #GitHub  
-  > **IDEs**: #VSCode, #WebStorm for JavaScript, #IntelliJ for Java, #CodeSandbox, #JSitor, #replit  
-  > **Database**: #SQL, #Navicat, #Supabase, #Airtable  
-  > **Knowledge base / Note taking**: #Markdown in #Logseq, .md, and presentations, #Notion  
-  > **Production / Deployment**: #Vercel, #AWS  
-  > Introduction to #Docker  
-  > **Collaboration**: #Slack, #Zoom, #Around  
-- 🌱 I’m currently learning React and Node  
-- 🔭 Next I’ll be working on Ruby  
+  > **Prototyping**: Figma  
+  > **Project management**: Agile-Scrum in ZenHub, GitHub Projects  
+  > **Web Development**: HTML, CSS, TailwindCSS, DaisyUI, MUI, JavaScript, React, Node, Express, Java, SpringBoot, Javalin  
+  > **Version control**: Git, GitHub  
+  > **IDEs**: VSCode, WebStorm for JavaScript, IntelliJ for Java, CodeSandbox, JSitor, replit  
+  > **Database**: SQL, Navicat, Supabase, Airtable, NoSQL, MongoDB with Mongoose (ODM)  
+  > **Knowledge base / Note taking**: Markdown, Logseq, Notion  
+  > **Production / Deployment**: AWS, GCP, Vercel, Netlify, Render  
+  > Introduction to Docker  
+  > **Collaboration**: Slack, Zoom, Around  
+- 🌱 I’m currently learning Next.js, and Ruby on Rails  
+- 🔭 Next I’ll be working on TypeScript  
 - 👯 I’m looking to collaborate on web applications  
-- 📫 How to reach me: https://www.linkedin.com/in/amirhossein-olyaei/  
+- 📫 How to reach me: https://www.linkedin.com/in/amir-olyaei/  
 
 ### Skills
 
