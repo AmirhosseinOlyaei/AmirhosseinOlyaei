@@ -3,18 +3,21 @@
 Thanks for visiting!  
 
 - 🔭 I’m currently working on Full Stack Web Development  
+  > **Project Management**: GitHub Projects, Azure Boards, Atlassian, ZenHub, Plane.so  
   > **Prototyping**: Figma  
-  > **Project management**: Agile-Scrum in ZenHub, GitHub Projects  
-  > **Web Development**: HTML, CSS, TailwindCSS, DaisyUI, MUI, JavaScript, React, Node, Express, Java, SpringBoot, Javalin  
-  > **Version control**: Git, GitHub  
-  > **IDEs**: VSCode, WebStorm for JavaScript, IntelliJ for Java, CodeSandbox, JSitor, replit  
-  > **Database**: SQL, Navicat, Supabase, Airtable, NoSQL, MongoDB with Mongoose (ODM)  
-  > **Knowledge base / Note taking**: Markdown, Logseq, Notion  
-  > **Production / Deployment**: AWS, GCP, Vercel, Netlify, Render  
-  > Introduction to Docker  
-  > **Collaboration**: Slack, Zoom, Around  
-- 🌱 I’m currently learning Next.js, and Ruby on Rails  
-- 🔭 Next I’ll be working on TypeScript  
+  > **Design Systems**: CSS, TailwindCSS, MUI, shadcn, Chakra UI, Bulma, DaisyUI  
+  > **Web Development**: HTML, JavaScript (Next, React, Node, Express, TypeScript), Python, Java (SpringBoot, Javalin)  
+  > **Source Code Management**: Git, GitHub  
+  > **IDEs**: Windsurf, VSCode, WebStorm for JavaScript, IntelliJ for Java, CodeSandbox, JSitor, replit  
+  > **Database**: SQL, NoSQL, Vector, MongoDB with Mongoose (ODM), Supabase with PostgreSQL, Airtable, Navicat  
+  > **Production / Deployment**: Vercel, Netlify, Render  
+  > **Cloud Services**: AWS, GCP, Azure  
+  > **Knowledge base & Note taking**: Markdown, Logseq, Notion  
+  > **Methodologies & Systems**: Agile-Scrum Development, Continuous Integration & Deployment (CI/CD), Version Control System (VCS), and Collaborative Software Development  
+  > **Additional Skills**: Generative AI, Docker, various workflow automation and AI tools  
+  > **Collaboration**: Slack, Zoom  
+- 🌱 I’m currently learning Next.js  
+- 🔭 Next I’ll be working on AI for Developers
 - 👯 I’m looking to collaborate on web applications  
 - 📫 How to reach me: [DevArts](https://devarts.notion.site/61c6b79808ce476290c753165851b070)
 
