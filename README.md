@@ -1,69 +1,186 @@
-### Hi there 👋
+<div align="center">
+  
+# 👋 Hi, I'm Amir Olyaei
 
-Thanks for visiting!  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Software+Developer+%40+Code+the+Dream;Building+AI-Driven+Applications;Full+Stack+Web+Developer;Cloud-Native+Solutions+Architect)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on Full Stack Web Development  
-  > **Project Management**: GitHub Projects, Azure Boards, Atlassian, ZenHub, Plane.so  
-  > **Prototyping**: Figma  
-  > **Design Systems**: CSS, TailwindCSS, MUI, shadcn, Chakra UI, Bulma, DaisyUI  
-  > **Web Development**: HTML, JavaScript (Next, React, Node, Express, TypeScript), Python, Java (SpringBoot, Javalin)  
-  > **Source Code Management**: Git, GitHub  
-  > **IDEs**: Windsurf, VSCode, WebStorm for JavaScript, IntelliJ for Java, CodeSandbox, JSitor, replit  
-  > **Database**: SQL, NoSQL, Vector, MongoDB with Mongoose (ODM), Supabase with PostgreSQL, Airtable, Navicat  
-  > **Production / Deployment**: Vercel, Netlify, Render  
-  > **Cloud Services**: AWS, GCP, Azure  
-  > **Knowledge base & Note taking**: Markdown, Logseq, Notion  
-  > **Methodologies & Systems**: Agile-Scrum Development, Continuous Integration & Deployment (CI/CD), Version Control System (VCS), and Collaborative Software Development  
-  > **Additional Skills**: Generative AI, Docker, various workflow automation and AI tools  
-  > **Collaboration**: Slack, Zoom  
-- 🌱 I’m currently learning Next.js  
-- 🔭 Next I’ll be working on AI for Developers
-- 👯 I’m looking to collaborate on web applications  
-- 📫 How to reach me: [DevArts](https://devarts.notion.site/61c6b79808ce476290c753165851b070)
+### 🚀 Building scalable web architectures, AI-powered applications, and cloud-native solutions
 
-### Skills
+[![Website](https://img.shields.io/badge/Website-devartslab.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.devartslab.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirolyaei)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmirhosseinOlyaei)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirholyaei@gmail.com)
 
-<p align="left">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" /></a>
-<a href="https://www.zenhub.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/U97xgKq.png" width="36" height="36" alt="Zenhub" title="Zenhub" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" /></a>
-<a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/XlPIRaG.png" width="36" height="36" alt="GitHub" title="GitHub" /></a>
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/lHgeqzp.png" width="36" height="36" alt="VSCode" title="VSCode" /></a>
-<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/cDJe90y.png" width="36" height="36" alt="Webstorm" title="Webstorm" /></a>
-<a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS" /></a>
-<a href="https://daisyui.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/xLOhACm.png" width="36" height="36" alt="DaisyUI" title="DaisyUI" /></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React" /></a>
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="36" height="36" alt="Java" title="Java" /></a>
-<a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/mPI6GTE.png" width="36" height="36" alt="API" title="API" /></a>
-<a href="https://navicat.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/1EOFBkk.png" width="36" height="36" alt="Navicat" title="Navicat" /></a>
-<a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" title="Supabase" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /></a>
-<a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/RuWkwhh.png" width="36" height="36" alt="Vercel" title="Vercel" /></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/f0Actia.png" width="36" height="36" alt="AWS" title="AWS-Cloud-Practitioner" /></a>
-<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/HPoUzgb.png" width="50" height="30" alt="Markdown" title="Markdown" /></a>
-<a href="https://logseq.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/FUxrgsy.png" width="36" height="36" alt="Logseq" title="Logseq" /></a>
-<a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/l95rkht.png" width="36" height="36" alt="Slack" title="Slack" /></a>
-  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="36" height="36" alt="Notion" title="Notion" /></a>
-</p>
+</div>
 
-### Support Me
+---
+
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ City Scraper
+Extracting public meeting data from **130+ government agencies** using Python & Scrapy
+- 🎯 99% scraper reliability
+- 📊 Supporting 12+ partner newsrooms
+- 🔄 Automated CI/CD pipelines
+
+</td>
+<td width="50%">
+
+### 🤖 Course Builder AI
+AI-powered curriculum generation system with admin analytics dashboard
+- ⚡ Reduces content creation time by 50%
+- 📈 Serving 50+ instructors
+- 🎓 1,000+ modules managed
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirhosseinOlyaei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhosseinOlyaei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmirhosseinOlyaei&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend & Design
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### ⚙️ Backend & Languages
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Database & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+### 🤖 AI & ML Tools
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🛠️ Development Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/AmirhosseinOlyaei/ecommerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirhosseinOlyaei&repo=ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/AmirhosseinOlyaei/PlayItForward-React">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirhosseinOlyaei&repo=PlayItForward-React&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/AmirhosseinOlyaei/marketing-ai-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirhosseinOlyaei&repo=marketing-ai-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/AmirhosseinOlyaei/Social-Media-Blog-API-Spring">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirhosseinOlyaei&repo=Social-Media-Blog-API-Spring&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" />
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Amir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirhosseinOlyaei&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎓 What I'm Learning
+
+```javascript
+const currentLearning = {
+  aiMl: ["Advanced RAG Techniques", "LangChain", "Vector Databases"],
+  webDev: ["Next.js 15 App Router", "Server Components", "Streaming"],
+  cloudNative: ["Kubernetes", "Microservices Architecture", "CI/CD"],
+  focus: "Building AI-powered SaaS applications"
+};
+```
+
+---
+
+## 💬 Let's Connect!
+
+<div align="center">
+
+**Open to collaborating on AI-powered web applications and SaaS projects**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.devartslab.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirolyaei)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirholyaei@gmail.com)
+
+### ☕ Support My Work
 
 <a href="https://www.buymeacoffee.com/amirolyaei"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-<!--
-**AmirhosseinOlyaei/AmirhosseinOlyaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=AmirhosseinOlyaei&style=for-the-badge&color=2E9EF7" alt="Profile Views" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Thanks for visiting! Have a great day! 🚀**
+
+</div>
