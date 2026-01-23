@@ -45,12 +45,12 @@ AI-powered curriculum generation system with admin analytics dashboard
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirhosseinOlyaei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhosseinOlyaei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api?username=AmirhosseinOlyaei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" alt="GitHub Stats" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AmirhosseinOlyaei&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7&sideLabels=2E9EF7&dates=FFFFFF)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhosseinOlyaei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF" alt="Top Languages" />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmirhosseinOlyaei&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
 
 </div>
 
