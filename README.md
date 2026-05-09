@@ -22,7 +22,9 @@
 <td width="50%">
 
 ### 🏗️ City Scraper
+
 Extracting public meeting data from **130+ government agencies** using Python & Scrapy
+
 - 🎯 99% scraper reliability
 - 📊 Supporting 12+ partner newsrooms
 - 🔄 Automated CI/CD pipelines
@@ -31,7 +33,9 @@ Extracting public meeting data from **130+ government agencies** using Python & 
 <td width="50%">
 
 ### 🤖 Course Builder AI
+
 AI-powered curriculum generation system with admin analytics dashboard
+
 - ⚡ Reduces content creation time by 50%
 - 📈 Serving 50+ instructors
 - 🎓 1,000+ modules managed
@@ -157,8 +161,8 @@ const currentLearning = {
   aiMl: ["Advanced RAG Techniques", "LangChain", "Vector Databases"],
   webDev: ["Next.js 15 App Router", "Server Components", "Streaming"],
   cloudNative: ["Kubernetes", "Microservices Architecture", "CI/CD"],
-  focus: "Building AI-powered SaaS applications"
-};
+  focus: "Building AI-powered SaaS applications",
+}
 ```
 
 ---
@@ -171,7 +175,7 @@ const currentLearning = {
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.devartslab.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirolyaei)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirholyaei@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@devartslab.com)
 
 ### ☕ Support My Work
 
